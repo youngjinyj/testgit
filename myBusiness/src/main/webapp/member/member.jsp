@@ -1,4 +1,5 @@
 <%@ page contentType="text/html; charset=EUC-KR" %>
+
 <html>
 <head>
 <title>회원가입</title>
@@ -23,6 +24,7 @@
 </script>
 </head>
 <body bgcolor="#FFFFCC" onLoad="regFrm.id.focus()">
+송근호 바보 
 	<div align="center">
 		<br /><br />
 		<form name="regFrm" method="post" action="memberProc.jsp">
